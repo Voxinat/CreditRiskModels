@@ -1,5 +1,5 @@
 # CreditRiskModels
-Implements some structural model for credit risk measures
+Implements some structural models for credit risk measures
 
 In particular, it is the reference code for the paper "A structural approach to default modelling with pure jump processes" (Aguilar, Pesci & James 2021) 
 
